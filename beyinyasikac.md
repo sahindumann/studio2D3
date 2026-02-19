@@ -1,4 +1,4 @@
-Beyin Yaşı – Gizlilik Politikası
+Beyinin Kaç Yaşında – Gizlilik Politikası
 Son güncelleme: 19 Şubat 2025
 
 Bu gizlilik politikası, Beyin Yaşı mobil uygulamasını (“Uygulama”) kullandığınızda bilgilerinizin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar. Uygulamamızı kullanarak bu politikayı kabul etmiş sayılırsınız.
