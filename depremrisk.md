@@ -67,19 +67,14 @@
 
 ---
 
-## 6. Çocukların Gizliliği
 
-Uygulama 13 yaş altı çocuklara yönelik kişisel veri toplamayı hedeflemez. Ebeveyn veya vasi iseniz ve çocuğunuzun veri paylaştığını düşünüyorsanız bizimle iletişime geçebilirsiniz.
-
----
-
-## 7. Değişiklikler
+## 6. Değişiklikler
 
 Bu Gizlilik Sözleşmesi güncellendiğinde, Uygulama veya uygun kanallar aracılığıyla size bilgi verilecektir. Değişiklikler bu sayfanın "Son güncelleme" tarihinde yansıtılacaktır.
 
 ---
 
-## 8. İletişim
+## 7. İletişim
 
 Gizlilik ile ilgili sorularınız için:
 
