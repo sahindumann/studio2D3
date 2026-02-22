@@ -78,7 +78,7 @@ Bu Gizlilik Sözleşmesi güncellendiğinde, Uygulama veya uygun kanallar aracı
 
 Gizlilik ile ilgili sorularınız için:
 
-- **E-posta:** [e-posta adresinizi buraya ekleyin]
+- **E-posta:** cdeveloperr@gmail.com
 - **Uygulama:** Deprem Risk
 
 ---
