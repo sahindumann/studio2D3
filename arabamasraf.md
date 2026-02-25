@@ -4,7 +4,7 @@ Son güncelleme: 25.02.2026
 Araç Masraf Takip uygulaması ("Uygulama") olarak 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında kişisel verilerinizin güvenliğine önem veriyoruz. Bu metin, web ve mobil uygulamamızda hangi verilerin toplandığını, nasıl işlendiğini, ne kadar süre saklandığını ve haklarınızı açıklar.
 
 2. Veri Sorumlusu
-Kişisel verileriniz, Araç Masraf Takip uygulaması veri sorumlusu sıfatıyla işlenmektedir. Sorularınız için: destek@aracmasraftakip.com
+Kişisel verileriniz, Araç Masraf Takip uygulaması veri sorumlusu sıfatıyla işlenmektedir. Sorularınız için: destek@arabamasraf.com
 
 3. İşlenen Veriler
 Uygulama aşağıdaki kişisel verileri toplar ve işler:
