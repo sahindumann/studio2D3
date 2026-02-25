@@ -23,7 +23,7 @@ Verileriniz, hizmet sunumunun gerektirdiği sürece veya yasal saklama yüküml�
 Veriler sunucularda güvenli biçimde tutulur. Şifreler kriptografik yöntemlerle saklanır. Tüm veri aktarımı HTTPS ile şifrelenir. Veriler Türkiye veya Avrupa Birliği uyumlu altyapıda barındırılır.
 
 7. Haklarınız (KVKK m. 11)
-Kişisel verilerinizin işlenip işlenmediğini öğrenme, işlenmişse buna ilişkin bilgi talep etme, işlenme amacını ve amaca uygun kullanılıp kullanılmadığını öğrenme, eksik veya yanlış işlenmişse düzeltilmesini veya silinmesini isteme hakkına sahipsiniz. Taleplerinizi İletişim sayfası veya destek@aracmasraftakip.com üzerinden iletebilirsiniz.
+Kişisel verilerinizin işlenip işlenmediğini öğrenme, işlenmişse buna ilişkin bilgi talep etme, işlenme amacını ve amaca uygun kullanılıp kullanılmadığını öğrenme, eksik veya yanlış işlenmişse düzeltilmesini veya silinmesini isteme hakkına sahipsiniz. Taleplerinizi İletişim sayfası veya destek@arabamasraf.com üzerinden iletebilirsiniz.
 
 Şikayet: Haklarınızın ihlal edildiğini düşünürseniz Kişisel Verileri Koruma Kurulu’na başvurabilirsiniz.
 
