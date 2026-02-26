@@ -1,0 +1,74 @@
+# Gizlilik Politikası
+
+**Son güncelleme:** 26 Şubat 2026
+
+**Namaz Vakti** uygulaması ("Uygulama") olarak kullanıcılarımızın gizliliğine saygı gösteriyoruz. Bu Gizlilik Politikası, uygulamamızın verilerinizi nasıl topladığını, kullandığını ve koruduğunu açıklar.
+
+## 1. Toplanan Veriler
+
+### 1.1 Konum Verileri
+- **GPS Konumu:** Namaz vakitlerini ve kıble yönünü doğru hesaplamak için cihazınızın konum bilgisini kullanırız.
+- **IP Adresi:** Konum izni verilmediğinde, yaklaşık konumunuzu belirlemek için IP adresiniz kullanılabilir (ipapi.co servisi üzerinden).
+- Konum verileri **sunucularımıza gönderilmez ve saklanmaz**. Sadece harici API'lere (namaz vakitleri ve kıble hesaplaması için) anlık olarak iletilir.
+
+### 1.2 Yerel Saklama
+Uygulama aşağıdaki verileri yalnızca cihazınızda saklar:
+- **Zikir sayacı:** Saydığınız zikir adedi
+- **Bildirim ayarları:** Ezan sesi, 15 dk önce uyarı vb. tercihleriniz
+- Bu veriler sadece cihazınızda tutulur, hiçbir sunucuya gönderilmez.
+
+### 1.3 Reklam Verileri
+Uygulama **Google AdMob** kullanmaktadır. Reklam gösterimi sırasında:
+- Cihaz bilgileri (reklam tanımlayıcısı, dil, ekran boyutu) reklam sunumu için kullanılabilir.
+- Google'ın gizlilik politikası: https://policies.google.com/privacy
+
+## 2. Üçüncü Taraf Servisleri
+
+Uygulama aşağıdaki harici servislerle iletişim kurar:
+
+| Servis | Amaç | Veri |
+|--------|------|------|
+| Aladhan API | Namaz vakitleri | Konum (enlem, boylam) |
+| Quran.com API | Kuran metinleri | API isteği (sure/ayet) |
+| ipapi.co | IP tabanlı konum (yedek) | IP adresi |
+| Google AdMob | Reklamlar | Reklam kimliği, cihaz bilgisi |
+
+Bu servislerin kendi gizlilik politikaları bulunmaktadır.
+
+## 3. İzinler
+
+Uygulama şu izinleri talep eder:
+
+| İzin | Kullanım amacı |
+|------|----------------|
+| Konum (GPS) | Namaz vakitlerinin ve kıble yönünün hesaplanması |
+| İnternet | Namaz vakitleri, Kuran metinleri ve reklamların alınması |
+| Bildirimler | Namaz vakti hatırlatmaları |
+| Tam zamanında alarm | Planlanan bildirimlerin doğru saatte gösterilmesi |
+
+Bu izinlerden herhangi birini reddedebilirsiniz; ancak bazı özellikler çalışmayabilir.
+
+## 4. Veri Güvenliği
+
+- Topladığımız verileri güvenli bir şekilde saklamaya çalışıyoruz.
+- Konum ve kişisel tercihler sunucularımızda tutulmaz.
+- Verileriniz yalnızca uygulama işlevselliği için gerekli olduğu sürece kullanılır.
+
+## 5. Çocukların Gizliliği
+
+Uygulama 13 yaş altı çocuklara yönelik bilinçli olarak kişisel veri toplamaz. Ebeveyn veya vasisi olduğunuz bir çocuğun veri paylaştığını düşünüyorsanız, lütfen bizimle iletişime geçin.
+
+## 6. Değişiklikler
+
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Önemli değişiklikler uygulama içinde veya bildirim yoluyla duyurulacaktır. Değişiklikler yayınlandığı anda yürürlüğe girer.
+
+## 7. İletişim
+
+Gizlilik politikamız veya veri işleme uygulamalarımız hakkında sorularınız varsa lütfen bizimle iletişime geçin:
+
+- **E-posta:** cdeveloperr@gmail.com
+
+
+---
+
+Bu politikayı kabul ederek uygulamayı kullanmaya devam etmeniz, bu şartları kabul ettiğiniz anlamına gelir.
